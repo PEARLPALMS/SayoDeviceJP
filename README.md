@@ -8,3 +8,9 @@ SayoDevice 日本語化
 また中華フォントなのも、ソフトの都合でソースがありませんので、変更できません。
 
 とりあえず使えるレベルになったので、公開します。
+
+<img src="./Sayo1.png" width="50%">
+
+<img src="./Sayo2.png" width="100%">
+
+<img src="./Sayo3.png" width="100%">
