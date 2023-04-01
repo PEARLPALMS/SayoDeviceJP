@@ -9,10 +9,10 @@ SayoDevice 日本語化
 
 とりあえず使えるレベルになったので、公開します。
 
-<img src="./Sayo99.jpg" width="50%">
+<img src="./img/Sayo99.jpg" width="50%">
 
-<img src="./Sayo1.png" width="50%">
+<img src="./img/Sayo1.png" width="50%">
 
-<img src="./Sayo2.png" width="100%">
+<img src="./img/Sayo2.png" width="100%">
 
-<img src="./Sayo3.png" width="100%">
+<img src="./img/Sayo3.png" width="100%">
