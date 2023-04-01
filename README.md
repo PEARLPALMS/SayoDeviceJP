@@ -1,4 +1,5 @@
 # SayoDeviceJP
+<meta name="google-site-verification" content="Rr-OjDvmAZFFx9fgsad6s1XLRHYQ8YW8iW5XUqBxm_Y" />
 SayoDevice 日本語化
 
 とりあえず SayoDevice の UI を日本語化してみました。
