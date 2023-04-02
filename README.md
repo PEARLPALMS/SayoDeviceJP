@@ -9,10 +9,10 @@ SayoDevice 日本語化
 
 とりあえず使えるレベルになったので、公開します。
 
-<a href="https://github.com/PEARLPALMS/SayoDeviceJP/">GitHub</a>
+<a href="https://github.com/PEARLPALMS/SayoDeviceJP/">GitHubページ</a>
 
-本家は<a href="https://github.com/SoulDee/WebSayoDevice">こちら</a>です。<br>
-本家ダウンロードは<a href="https://dl.sayobot.cn/setting_v3.zip">こちら</a>です。<br>
+中国語の本家は<a href="https://github.com/SoulDee/WebSayoDevice">こちら</a>です。<br>
+中国語の本家ダウンロードは<a href="https://dl.sayobot.cn/setting_v3.zip">こちら</a>です。<br>
 
 <img src="./img/Sayo99.jpg" width="50%">
 
