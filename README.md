@@ -26,7 +26,7 @@
 
 <hr>
 
-<img src="./img/Sayo99.jpg" width="50%">
+<img src="./img/Sayo99.png" width="50%">
 
 <img src="./img/Sayo1.png" width="50%">
 
