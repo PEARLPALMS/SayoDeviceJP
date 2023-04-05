@@ -20,11 +20,11 @@
 
 少しだけ SayoDevice の使い方を解説(これから作る予定)
 
-・<a href="./hotswap/hotswap.md">入手方法と詳細レビュー</a>
+・<a href="./hotswap/hotswap.html">入手方法と詳細レビュー</a>
 
-・<a href="./page/page.md">ページ切り替えで使えるボタン数を増やそう</a>
+・<a href="./page/page.html">ページ切り替えで使えるボタン数を増やそう</a>
 
-・<a href="./script/script.md">スクリプトを使いこなそう</a>
+・<a href="./script/script.html">スクリプトを使いこなそう</a>
 
 <hr>
 
