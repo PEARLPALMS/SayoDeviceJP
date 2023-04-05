@@ -5,7 +5,7 @@
 とりあえず SayoDevice の UI を日本語化してみました。<br>
 ひととおり使えるレベルになったので、公開します。
 
-<a href="https://github.com/PEARLPALMS/SayoDeviceJP/SayoDevice3J.7z">ダウンロード</a>
+<a href="./SayoDevice3J.7z">ダウンロード</a>
 
 # いいわけ
 
