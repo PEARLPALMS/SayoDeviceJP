@@ -1,4 +1,4 @@
-# SayoDevice日本語化
+# SayoDevice 日本語化
 
 とりあえず SayoDevice の UI を日本語化してみました。<br>
 ひととおり使えるレベルになったので、公開します。
