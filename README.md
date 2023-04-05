@@ -20,9 +20,9 @@
 
 ・<a href="./hotswap/hotswap.md">入手方法と詳細レビュー</a>
 
-・<a href="#">ページ切り替えで使えるボタン数を増やそう</a>
+・<a href="./page/page.md">ページ切り替えで使えるボタン数を増やそう</a>
 
-・<a href="#">スクリプトを使いこなそう</a>
+・<a href="./script/script.md">スクリプトを使いこなそう</a>
 
 <hr>
 
