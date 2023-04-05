@@ -1,5 +1,6 @@
 # SayoDevice 日本語化
-<a href="https://github.com/PEARLPALMS/SayoDeviceJP/SayoDevice3J.7z" align="right">GitHub</a>
+
+<p style="text-align:right"><a href="https://github.com/PEARLPALMS/SayoDeviceJP/" align="right">GitHub</a></p>
 
 とりあえず SayoDevice の UI を日本語化してみました。<br>
 ひととおり使えるレベルになったので、公開します。
