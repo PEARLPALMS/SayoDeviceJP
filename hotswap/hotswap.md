@@ -40,4 +40,15 @@ CherryMX や Kailh に交換可能かと思われますが、CherryMX は固く�
 作っていました。プログラムで長押しや、ダブルタップ、スイッチなど好きに作れるのですが、<br>
 内容を変更したい場合、プログラム変更～コンパイルが面倒でしたし、何より見た目が。。。<br>
 
+# TEST
+
 <img src="STM32.png" width="50%">
+
+<img src="hotswap_03.png" width="50%">
+
+<img src="hotswap_04.png" width="50%">
+
+<img src="hotswap_05.png" width="50%">
+
+CH573F<br>
+60Mhz Max,18KB RAM,448KB ROM,RISC-V3A,BLE 4.2
