@@ -5,7 +5,7 @@
 とりあえず SayoDevice の UI を日本語化してみました。<br>
 ひととおり使えるレベルになったので、公開します。
 
-2023/04/07 <a href="./SayoDevice3J.7z">ダウンロード</a>
+2023/04/07 <a href="https://pearlpalms.github.io/SayoDeviceJP/SayoDevice3J.7z">ダウンロード</a>
 
 # いいわけ
 
@@ -20,11 +20,11 @@
 
 少しだけ SayoDevice の使い方を解説(これから作る予定)
 
-・<a href="./hotswap/hotswap.html">入手方法と詳細レビュー</a>
+・<a href="https://pearlpalms.github.io/SayoDeviceJP/hotswap/hotswap.html">入手方法と詳細レビュー</a>
 
-・<a href="./page/page.html">ページ切り替えで使えるボタン数を増やそう</a>
+・<a href="https://pearlpalms.github.io/SayoDeviceJP/page/page.html">ページ切り替えで使えるボタン数を増やそう</a>
 
-・<a href="./script/script.html">スクリプトを使いこなそう</a>
+・<a href="https://pearlpalms.github.io/SayoDeviceJP/script/script.html">スクリプトを使いこなそう</a>
 
 <hr>
 
