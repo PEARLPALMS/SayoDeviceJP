@@ -1,4 +1,4 @@
-# SayoDevice 日本語化 / SayoDevice 日本語
+# SayoDevice 日本語化
 
 <p style="text-align:right"><a href="https://github.com/PEARLPALMS/SayoDeviceJP/" align="right">GitHub</a></p>
 
