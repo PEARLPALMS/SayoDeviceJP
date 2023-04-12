@@ -42,13 +42,25 @@ CherryMX や Kailh に交換可能かと思われますが、CherryMX は固く�
 
 <img src="STM32.png" width="50%">
 
-# TEST
+# 分解してみると
 
-<img src="hotswap_03.png" width="50%">
+ネジ4本で止まっているだけなので、直ぐに分解できます。<br>
+基盤は非常にシンプルで、表面実装で作られています。簡単に改造できる部分は、ほぼ皆無かと思われます。
 
-<img src="hotswap_04.png" width="50%">
+<img src="hotswap_03.png" width="50%"><img src="hotswap_04.png" width="50%">
+
+# IC は CH573F
+
+IC は 1個 のみが実装されており、外部クリスタルは 32MHz で、IC は、CH573F です。<br>
+ここ最近、安売りされている CH5xx シリーズです。中身のプログラム取り出しや、書き換えなどは不明です。<br>
+Bluetooth が実装されており、プログラムに設定もありますが、アンテナパターンが無く、実際に動作は確認できませんでした。<br>
+
+## CH573Fスペック
+USB＋HID を動作させるには、オーバースペックだと思われます。<br>
+今後、何かアップデートで機能追加されるかは不明です。
+|CPUクロック|動作メモリ|フラッシュ|アーキテクチャ|Bluetooth|
+|-----------|----------|----------|--------------|---------|
+|60Mhz      |最大 18KB |448KB     |RISC-V3A      |BLE 4.2  |
 
 <img src="hotswap_05.png" width="50%">
 
-CH573F<br>
-60Mhz Max,18KB RAM,448KB ROM,RISC-V3A,BLE 4.2
