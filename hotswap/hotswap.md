@@ -58,6 +58,21 @@ Bluetooth が実装されており、プログラムに設定もありますが�
 ## CH573Fスペック
 USB ＋ HID を動作させるには、オーバースペックだと思われます。<br>
 今後、何かアップデートで機能追加されるかは不明です。<br>
+<table>
+  <thead>
+    <tr>
+      <th>1</th>
+      <th>1</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>The table body</td>
+      <td>with two columns</td>
+    </tr>
+  </tbody>
+</table>
+
 |CPUクロック|動作メモリ|フラッシュ|アーキテクチャ|Bluetooth|
 |-----------|----------|----------|--------------|---------|
 |60Mhz      |最大 18KB |448KB     |RISC-V3A      |BLE 4.2  |
