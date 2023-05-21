@@ -61,22 +61,23 @@ USB ＋ HID を動作させるには、オーバースペックだと思われ�
 <table>
   <thead>
     <tr>
-      <th>1</th>
-      <th>1</th>
+      <th>CPUクロック</th>
+      <th>動作メモリ</th>
+      <th>フラッシュ</th>
+      <th>アーキテクチャ</th>
+      <th>Bluetooth</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>The table body</td>
-      <td>with two columns</td>
+      <td>60Mhz</td>
+      <td>最大 18KB</td>
+      <td>448KB</td>
+      <td>RISC-V3A</td>
+      <td>BLE 4.2</td>
     </tr>
   </tbody>
 </table>
-
-|CPUクロック|動作メモリ|フラッシュ|アーキテクチャ|Bluetooth|
-|-----------|----------|----------|--------------|---------|
-|60Mhz      |最大 18KB |448KB     |RISC-V3A      |BLE 4.2  |
-
 <img src="hotswap_05.png" width="50%">
 
 # キーキャップを変更したら
