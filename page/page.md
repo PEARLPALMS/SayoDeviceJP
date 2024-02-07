@@ -48,14 +48,19 @@ RGB で細かい色の設定も可能です。<br>
 ```
 <img src="page_09.png" width="50%"><br>
 
-<br>
-<br>
-<img src="page_10.png" width="50%"><br> <img src="page_11.png" width="50%"><br>
+```
+```
+<img src="page_10.png" width="50%"> <img src="page_11.png" width="50%"><br>
 
-<br>
-<br>
-<img src="page_13.png" width="50%"><br> <img src="page_14.png" width="50%"><br>
+```
+```
+<img src="page_13.png" width="50%"> <img src="page_14.png" width="50%"><br>
 
-<br>
-<br>
+```
+```
 <img src="page_15.png" width="50%"><br>
+<br>
+ここまで設定すれば、左下のボタンを押すたびに Fn0～Fn4 を順番に切り替えて、複数のボタンセットが使えます。<br>
+<br>
+> しかしページが切り替わったことや、現在のページが分かりませんので、バックライトにより分かりやすく設定します。<br>
+<br>
