@@ -16,13 +16,13 @@ Fn0～Fn4 の 5セット を切り替えることが出来ます。<br>
 <img src="page_03.png" width="50%"><br>
 
 ```
-「モード」を「SW」に設定し、「選択Fn」を次のページである「Fn1」を指定する。<br>
+「モード」を「SW」に設定し、「選択Fn」を次のページである「Fn1」を指定する。
 ```
-<img src="page_04.png" width="50%"><br>
-<img src="page_05.png" width="50%"><br>
+<img src="page_04.png" width="50%"><img src="page_05.png" width="50%"><br>
 
-下段「Fn1」を指定し「左下のボタン」を選択し「モード」同じく「SW」に設定し、「選択Fn」を次のページである「Fn2」を指定する。<br>
-<br>
+```
+下段「Fn1」を指定し「左下のボタン」を選択し「モード」同じく「SW」に設定し、「選択Fn」を次のページである「Fn2」を指定する。
+```
 <img src="page_07.png" width="50%"><br>
 
 <br>
