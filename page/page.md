@@ -25,8 +25,9 @@ Fn0～Fn4 の 5セット を切り替えることが出来ます。<br>
 ```
 <img src="page_07.png" width="50%"><br>
 
-<br>
-<br>
+```
+同じく「Fn2、Fn3、Fn4」を設定するが、「Fn4」の次ページを元に戻すために「Fn0」を指定する。
+```
 <img src="page_08.png" width="50%"><br>
 
 <br>
