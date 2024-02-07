@@ -50,23 +50,11 @@ RGB で細かい色の設定も可能です。<br>
 
 <br>
 <br>
-<img src="page_10.png" width="50%"><br>
+<img src="page_10.png" width="50%"><br> <img src="page_11.png" width="50%"><br>
 
 <br>
 <br>
-<img src="page_11.png" width="50%"><br>
-
-<br>
-<br>
-<img src="page_12.png" width="50%"><br>
-
-<br>
-<br>
-<img src="page_13.png" width="50%"><br>
-
-<br>
-<br>
-<img src="page_14.png" width="50%"><br>
+<img src="page_13.png" width="50%"><br> <img src="page_14.png" width="50%"><br>
 
 <br>
 <br>
