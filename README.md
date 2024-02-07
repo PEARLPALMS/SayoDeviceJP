@@ -18,13 +18,13 @@
 
 # 使い方
 
-少しだけ SayoDevice の使い方を解説(これから作る予定)
+少しだけ SayoDevice の使い方を解説
 
 ・<a href="https://pearlpalms.github.io/SayoDeviceJP/hotswap/hotswap.html">入手方法と詳細レビュー</a>
 
 ・<a href="https://pearlpalms.github.io/SayoDeviceJP/page/page.html">ページ切り替えで使えるボタン数を増やそう</a>
 
-・<a href="https://pearlpalms.github.io/SayoDeviceJP/script/script.html">スクリプトを使いこなそう</a>
+・<a href="https://pearlpalms.github.io/SayoDeviceJP/script/script.html">スクリプトを使いこなそう(未執筆)</a>
 
 <hr>
 
