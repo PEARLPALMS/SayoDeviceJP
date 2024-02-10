@@ -77,6 +77,8 @@ No.0010 Modifier-value-release [左CTRL]
 No.0011 Exit the script
 No.0012 end
 ```
+<img src="script_03.png" width="50%">
+
 やっていることは CTRL+i を押して、1秒後に再度 CTRL+i を押すというだけです。<br>
 とあるプログラムで CTRL+i を押すとインフォメーションが表示されるのですが、1秒後にインフォメーションを消すために再度 CTRL+i を押すスクリプトです。<br>
 <br>
@@ -95,14 +97,15 @@ No.0010 Modifier-value-release [左CTRL] | CTRL離す
 No.0011 Exit the script                 | 終了
 No.0012 end                             | 
 ```
-ここで No.0005 Duration-x256 [4] を Duration-x1 [1000] でも同じ動作をするように思うのですが、Duration-x1 は 255 までしか指定できません。<br>
-Duration-x256 は、名前の通り 256ミリ秒待機 ですので、約1秒である x4 を指定しています。<br>
-
+ここで No.0005 Duration-x256 [4] を Duration-x1 [1000] でも同じ動作をするように思うのですが、Duration-x1 は [255] までしか指定できません。<br>
+Duration-x256 は、名前の通り 256ミリ秒待機 ですので、約1秒である [x4] を指定しています。<br>
+また1秒待機している時に、あえて CTRL を押しっぱなしにして、スクリプト行を節約しています。<br>
+節約しないのであれば、1秒待機している No.0005 の前に CTRL を離して、No.0005 の後に CTRL 押下を入れるべきです。<br>
+<br>
 
 ## スクリプト容量には制限があります。
 <br>
 
-<img src="script_03.png" width="50%">
 <img src="script_04.png" width="50%">
 <img src="script_05.png" width="50%">
 <img src="script_06.png" width="50%">
