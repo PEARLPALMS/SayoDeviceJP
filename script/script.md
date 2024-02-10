@@ -119,7 +119,7 @@ No.0012 end                             |
 <br>
 
 ゲームなどで連射したい場合は、上記のような列挙だけでは実現できません。<br>
-さっさとスクリプトを表示します。スペースキーを連射します。設定したボタンを再度押下すると連射が止まります。<br>
+さっさとスクリプトを表示します。スペースキーを連射します。設定したボタンを押下している限り連射します。<br>
 ```
 No.0001 General-value-press [SpaceBar]
 No.0002 Duration-x1 [10]
@@ -131,3 +131,22 @@ No.0007 Exit the script
 No.0008 end
 ```
 <img src="script_05.png" width="50%">
+
+## 放置したい！ want AFK!!
+<br>
+
+先述のスクリプトでは、ボタンを押していないと連射しません。<br>
+以下のスクリプトでは、ボタンを押すと離しても連射し続けます。もう一度、ボタンを押すと連射が止まります。<br>
+```
+No.0001 General-value-press [SpaceBar]
+No.0002 Duration-x1 [10]
+No.0003 General-value-release [SpaceBar]
+No.0004 Duration-x1 [10]
+No.0005 Start all over again
+No.0006 Exit the script
+No.0007 end
+```
+<br>
+
+USBキーボードに対応したコンソールゲーム機でも動作いたします。<br>
+ただしチート扱いになるゲームなどもあるため、ゲームの約款などを熟読の上、自己責任でご使用をお願いします。<br>
