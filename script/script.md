@@ -47,8 +47,22 @@ B を離す
 とはいえ、ゲームの連射や、プログラムのメニューを開いて設定を変更する程度であれば、ボタン一杯まで搭載可能です。<br>
 <br>
 
+# スクリプトを書いてみよう
+<br>
+
+「スクリプト」タブを押して、「No.01」と書かれたプルダウンを選択します。<br>
 <img src="script_01.png" width="50%">
+
+「No.0001」をクリックするとポップアップが開いて詳細を入力します。
+```
+「モード」    Modifier-value-press
+「修飾キー」  左CTRL
+```
 <img src="script_02.png" width="50%">
+
+## スクリプト容量には制限があります。
+<br>
+
 <img src="script_03.png" width="50%">
 <img src="script_04.png" width="50%">
 <img src="script_05.png" width="50%">
