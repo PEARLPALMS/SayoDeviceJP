@@ -17,7 +17,7 @@
 元々のソフトがバイナリのみの配布ですので、使用にはご注意ください。<br>
 日本語部分を含めて自己責任でお願いします。
 
-# 使い方
+# SayoDevice 使い方
 
 少しだけ SayoDevice の使い方を解説
 
@@ -25,7 +25,9 @@
 
 ・<a href="https://pearlpalms.github.io/SayoDeviceJP/page/page.html">ページ切り替えで使えるボタン数を増やそう</a>
 
-・<a href="https://pearlpalms.github.io/SayoDeviceJP/script/script.html">スクリプトを使いこなそう(未執筆)</a>
+# SayoDevice スクリプトの書き方
+
+・<a href="https://pearlpalms.github.io/SayoDeviceJP/script/script.html">スクリプトを使いこなそう</a>
 
 <hr>
 
