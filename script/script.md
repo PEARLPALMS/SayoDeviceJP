@@ -113,8 +113,8 @@ Duration-x256 は、名前の通り 256ミリ秒待機 ですので、約1秒で
 # 連射したい！ want rapid fire!!
 <br>
 
-ゲームなどで連射したい場合は、上記のような列挙だけでは実現できません。
-さっさとスクリプトを表示します。
+ゲームなどで連射したい場合は、上記のような列挙だけでは実現できません。<br>
+さっさとスクリプトを表示します。スペースキーを連射します。設定したボタンを再度押下すると連射が止まります。<br>
 ```
 No.0001 General-value-press [SpaceBar]
 No.0002 Duration-x1 [10]
@@ -126,4 +126,3 @@ No.0007 Exit the script
 No.0008 end
 ```
 <img src="script_05.png" width="50%">
-<img src="script_06.png" width="50%">
