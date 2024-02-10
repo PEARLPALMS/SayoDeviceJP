@@ -80,7 +80,7 @@ No.0012 end
 やっていることは CTRL+i を押して、1秒後に再度 CTRL+i を押すというだけです。<br>
 とあるプログラムで CTRL+i を押すとインフォメーションが表示されるのですが、1秒後にインフォメーションを消すために再度 CTRL+i を押すスクリプトです。<br>
 <br>
-少し詳しく横に日本語を記述します。<br>
+詳しく横に日本語を記述します。<br>
 ```
 No.0001 Modifier-value-press [左CTRL]   | CTRL押下
 No.0002 General-value-pressd [Ii]       | i押下
@@ -95,6 +95,9 @@ No.0010 Modifier-value-release [左CTRL] | CTRL離す
 No.0011 Exit the script                 | 終了
 No.0012 end                             | 
 ```
+ここで No.0005 Duration-x256 [4] を Duration-x1 [1000] でも同じ動作をするように思うのですが、Duration-x1 は 255 までしか指定できません。<br>
+Duration-x256 は、名前の通り 256ミリ秒待機 ですので、約1秒である x4 を指定しています。<br>
+
 
 ## スクリプト容量には制限があります。
 <br>
