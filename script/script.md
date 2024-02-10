@@ -65,11 +65,11 @@ B を離す
 ざっと入力していくと以下のようになります。
 ```
 No.0001 Modifier-value-press [左CTRL]
-No.0002 General-value-pressd [Ii]
+No.0002 General-value-press [Ii]
 No.0003 Duration-x1 [35]
 No.0004 General-value-release [Ii]
 No.0005 Duration-x256 [4]
-No.0006 General-value-pressd [Ii]
+No.0006 General-value-press [Ii]
 No.0007 Duration-x1 [35]
 No.0008 General-value-release [Ii]
 No.0009 Duration-x1 [35]
@@ -85,11 +85,11 @@ No.0012 end
 詳しく横に日本語を記述します。<br>
 ```
 No.0001 Modifier-value-press [左CTRL]   | CTRL押下
-No.0002 General-value-pressd [Ii]       | i押下
+No.0002 General-value-press [Ii]        | i押下
 No.0003 Duration-x1 [35]                | 35ミリ秒待機
 No.0004 General-value-release [Ii]      | i離す
 No.0005 Duration-x256 [4]               | 1秒待機
-No.0006 General-value-pressd [Ii]       | i押下
+No.0006 General-value-press [Ii]        | i押下
 No.0007 Duration-x1 [35]                | 35ミリ秒待機
 No.0008 General-value-release [Ii]      | i離す
 No.0009 Duration-x1 [35]                | 35ミリ秒待機
@@ -114,5 +114,16 @@ Duration-x256 は、名前の通り 256ミリ秒待機 ですので、約1秒で
 <br>
 
 ゲームなどで連射したい場合は、上記のような列挙だけでは実現できません。
+さっさとスクリプトを表示します。
+```
+No.0001 General-value-press [SpaceBar]
+No.0002 Duration-x1 [10]
+No.0003 General-value-release [SpaceBar]
+No.0004 Duration-x1 [10]
+No.0005 Stop when key release
+No.0006 Start all over again
+No.0007 Exit the script
+No.0008 end
+```
 <img src="script_05.png" width="50%">
 <img src="script_06.png" width="50%">
