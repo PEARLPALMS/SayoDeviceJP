@@ -8,6 +8,8 @@
 もちろんプログラム経験も不要です。ただしミリ秒単位で制御しますので、根気よくトライし続けることが必要になります。<br>
 要は根気さえあれば、思ったように動くスクリプトが完成します。慣れてくればコツも分かってきます。<br>
 <br>
+※ ドキュメントなどを参考に独自に解釈した内容です。誤りやもっと効率的な記述が可能な場合があります。<br>
+<br>
 
 ## ちょっと概要的なことを。。。
 <br>
@@ -59,6 +61,40 @@ B を離す
 「修飾キー」  左CTRL
 ```
 <img src="script_02.png" width="50%">
+
+ざっと入力していくと以下のようになります。
+```
+No.0001 Modifier-value-press [左CTRL]
+No.0002 General-value-pressd [Ii]
+No.0003 Duration-x1 [35]
+No.0004 General-value-release [Ii]
+No.0005 Duration-x256 [4]
+No.0006 General-value-pressd [Ii]
+No.0007 Duration-x1 [35]
+No.0008 General-value-release [Ii]
+No.0009 Duration-x1 [35]
+No.0010 Modifier-value-release [左CTRL]
+No.0011 Exit the script
+No.0012 end
+```
+やっていることは CTRL+i を押して、1秒後に再度 CTRL+i を押すというだけです。<br>
+とあるプログラムで CTRL+i を押すとインフォメーションが表示されるのですが、1秒後にインフォメーションを消すために再度 CTRL+i を押すスクリプトです。<br>
+<br>
+少し詳しく横に日本語を記述します。<br>
+```
+No.0001 Modifier-value-press [左CTRL]   | CTRL押下
+No.0002 General-value-pressd [Ii]       | i押下
+No.0003 Duration-x1 [35]                | 35ミリ秒待機
+No.0004 General-value-release [Ii]      | i離す
+No.0005 Duration-x256 [4]               | 1秒待機
+No.0006 General-value-pressd [Ii]       | i押下
+No.0007 Duration-x1 [35]                | 35ミリ秒待機
+No.0008 General-value-release [Ii]      | i離す
+No.0009 Duration-x1 [35]                | 35ミリ秒待機
+No.0010 Modifier-value-release [左CTRL] | CTRL離す
+No.0011 Exit the script                 | 終了
+No.0012 end                             | 
+```
 
 ## スクリプト容量には制限があります。
 <br>
