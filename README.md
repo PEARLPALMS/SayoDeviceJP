@@ -5,8 +5,8 @@
 とりあえず SayoDevice の UI を日本語化してみました。<br>
 ひととおり使えるレベルになったので、公開します。
 
-新バージョンに対応できました。
-2026/02/24 <a href="https://app.sayodevice.com/windows_x64.zip">ダウンロード</a> <a href="https://pearlpalms.github.io/SayoDeviceJP/app_ja.arb">言語ファイルダウンロード</a> 
+新バージョンに対応できました。<br>
+2026/02/24 <a href="https://app.sayodevice.com/windows_x64.zip">ダウンロード</a> <a href="https://pearlpalms.github.io/SayoDeviceJP/app_ja.arb">言語ファイルダウンロード</a><br>
 2024/01/10 <a href="https://pearlpalms.github.io/SayoDeviceJP/SayoDevice20240110.7z">ダウンロード</a> (本家がアップデートしたため対応)<br>
 2023/04/07 <a href="https://pearlpalms.github.io/SayoDeviceJP/SayoDevice3J.7z">ダウンロード</a><br>
 
