@@ -6,7 +6,7 @@
 ひととおり使えるレベルになったので、公開します。
 
 新バージョンに対応しました。<br>
-2026/02/24 <a href="https://app.sayodevice.com/windows_x64.zip">ダウンロード</a> <a href="https://pearlpalms.github.io/SayoDeviceJP/app_ja.arb">言語ファイル/a>
+2026/02/24 <a href="https://app.sayodevice.com/windows_x64.zip">ダウンロード</a> <a href="https://pearlpalms.github.io/SayoDeviceJP/app_ja.arb">言語ファイル</a>
 <a href="https://pearlpalms.github.io/SayoDeviceJP/app_ja.arb">使い方</a><br>
 
 2024/01/10 <a href="https://pearlpalms.github.io/SayoDeviceJP/SayoDevice20240110.7z">ダウンロード</a> (本家がアップデートしたため対応)<br>
